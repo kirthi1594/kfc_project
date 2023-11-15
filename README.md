@@ -23,6 +23,12 @@ A web application for ordering KFC meals online.
 Images are downloaded from Kfc website
 ![Screenshot 1](screenshots/screenshot1.png)
 
+## Usage
+- Initially select the delivery type
+- user should select the location to know the availability
+- Do signup for access more features
+- Add items in cart and process for payment
+
 
 ## Installation
 ```bash
@@ -31,12 +37,6 @@ cd kfc-website
 npm install
 create vite@latest kfc-website --template react
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
-
-## Usage
-- Initially select the delivery type
-- user should select the location to know the availability
-- Do signup for access more features
-- Add items in cart and process for payment
 
 ## Contact
 github - kirthi15
